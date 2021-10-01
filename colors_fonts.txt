@@ -1,0 +1,13 @@
+Fonts:
+<link href="https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Italianno&family=Scheherazade+New:wght@700&display=swap" rel="stylesheet">            
+    
+    body- font-family: 'Gemunu Libre', sans-serif;
+
+    h1- font-family: "Italianno", Cursive;
+
+    h2- font-family: 'Scheherazade New', serif;
+
+    h3- font-family: "Italianno", Cursive;
+
+
+COLORS:
